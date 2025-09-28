@@ -16,7 +16,7 @@ Je m’appelle Elie, j’ai 15 ans et je découvre le monde de la programmation 
 ---
 
 ## Mes Projets
-Voici quelques projets sur lesquels j’ai travaillé (même petits !) :
+Voici quelques projets sur lesquels j’ai travaillé :
 
 | Nom du Projet         | Description                          | Lien |
 |-----------------------|--------------------------------------|----------------------|
