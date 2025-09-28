@@ -21,6 +21,8 @@ Voici quelques projets sur lesquels j’ai travaillé :
 | NeurIAzon (BETA)     | Une IA entièrement personnalisable basée sur Mistral AI.      | [neuriazon.pythonanywhere.com](https://neuriazon.pythonanywhere.com)      |
 | MoyenneExpress     | MoyenneExpress est l'outil fait pour calculer votre moyenne générale ! Disponible sur Windows et macOS.      | [github.com/Elicopter78/MoyenneExpress](https://github.com/Elicopter78/MoyenneExpress)      |
 | Bots Caaqlojin      | Les bots Discord Caaqlojin (Caaqlojin, CaaqlojinAI et Caaqlojin - Sondages) sont des bots faits pour le serveur de C Quoi Le Jeu.      | [Discord](https://discord.gg/Evu8WXm27z)      |
+| Mon Portfolio      | Mon portfolio présente mes compétences ainsi que les projets que j'ai réalisé      | [elie-dev.fr](https://elie-dev.fr)      |
+
 
 ---
 
@@ -32,6 +34,7 @@ Voici quelques projets sur lesquels j’ai travaillé :
 ---
 
 ## Comment me contacter ?
+✉️ Mail : contact@elie-dev.fr
 💬 Discord : https://discordapp.com/users/1215387386700234812
 
 ---
