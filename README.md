@@ -31,11 +31,6 @@ Voici quelques projets sur lesquels j’ai travaillé :
 
 ---
 
-## Statistiques GitHub
-![Tes stats GitHub](https://github-readme-stats.vercel.app/api?username=Elicopter78)
-
----
-
 ## Comment me contacter ?
 💬 Discord : https://discordapp.com/users/1215387386700234812
 
