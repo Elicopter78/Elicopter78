@@ -17,10 +17,10 @@ Voici quelques projets sur lesquels j’ai travaillé :
 
 | Nom du Projet         | Description                          | Lien |
 |-----------------------|--------------------------------------|----------------------|
-| C Quoi Le Jeu     | CQLJ est un jeu en ligne gratuit et open source      | [cquoilejeu.fr](https://cquoilejeu.fr)      |
-| NeurIAzon (BETA)     | Une IA entièrement personnalisable basée sur Mistral AI      | [neuriazon.pythonanywhere.com](https://neuriazon.pythonanywhere.com)      |
-| MoyenneExpress     | MoyenneExpress permet de calculer sa moyenne scolaire facilement et intuitivement      | [github.com/Elicopter78/MoyenneExpress](https://github.com/Elicopter78/MoyenneExpress)      |
-| Bots Caaqlojin      | Les bots Discord Caaqlojin (Caaqlojin, CaaqlojinAI et Caaqlojin - Sondages sont des bots fait pour le serveur de C Quoi Le Jeu      | [Discord](https://discord.gg/Evu8WXm27z)      |
+| C Quoi Le Jeu     | C Quoi Le Jeu est un jeu en ligne gratuit créé par deux adolescents, dont le principe est de deviner le nom d'un jeu vidéo à partir d'une image.      | [cquoilejeu.fr](https://cquoilejeu.fr)      |
+| NeurIAzon (BETA)     | Une IA entièrement personnalisable basée sur Mistral AI.      | [neuriazon.pythonanywhere.com](https://neuriazon.pythonanywhere.com)      |
+| MoyenneExpress     | MoyenneExpress est l'outil fait pour calculer votre moyenne générale ! Disponible sur Windows et macOS.      | [github.com/Elicopter78/MoyenneExpress](https://github.com/Elicopter78/MoyenneExpress)      |
+| Bots Caaqlojin      | Les bots Discord Caaqlojin (Caaqlojin, CaaqlojinAI et Caaqlojin - Sondages) sont des bots faits pour le serveur de C Quoi Le Jeu.      | [Discord](https://discord.gg/Evu8WXm27z)      |
 
 ---
 
