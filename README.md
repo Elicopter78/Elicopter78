@@ -26,7 +26,7 @@ Voici quelques projets sur lesquels j’ai travaillé :
 
 ## Compétences
 🛠 **Langages/Outils que je maîtrise** :
-- Langages : Python, HTML/CSS, Node.js
+- Langages : Python, HTML/CSS, Node.js, Discord.py et Discord.js
 - Outils : Git, VS Code, Arduino
 
 ---
