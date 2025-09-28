@@ -2,9 +2,6 @@
 
 💡 **Passionné de tech, apprentissage et création** | 15 ans | France
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Elicopter78)
-[![Discord](https://img.shields.io/badge/Discord-Me-blue?logo=discord)](https://discordapp.com/users/1215387386700234812)
-
 ---
 
 ## À propos de moi
@@ -20,8 +17,10 @@ Voici quelques projets sur lesquels j’ai travaillé :
 
 | Nom du Projet         | Description                          | Lien |
 |-----------------------|--------------------------------------|----------------------|
-| C Quoi Le Jeu     | CQLJ est un jeu en ligne gratuit et open source      | [cquoilejeu.fr](https://cquoilejeu.fr)          |
-| NeurIAzon (BETA)     | Une IA entièrement personnalisable basée sur Mistral AI                   | [neuriazon.pythonanywhere.com](https://neuriazon.pythonanywhere.com)          |
+| C Quoi Le Jeu     | CQLJ est un jeu en ligne gratuit et open source      | [cquoilejeu.fr](https://cquoilejeu.fr)      |
+| NeurIAzon (BETA)     | Une IA entièrement personnalisable basée sur Mistral AI      | [neuriazon.pythonanywhere.com](https://neuriazon.pythonanywhere.com)      |
+| MoyenneExpress     | MoyenneExpress permet de calculer sa moyenne scolaire facilement et intuitivement      | [github.com/Elicopter78/MoyenneExpress](https://github.com/Elicopter78/MoyenneExpress)      |
+| Bots Caaqlojin      | Les bots Discord Caaqlojin (Caaqlojin, CaaqlojinAI et Caaqlojin - Sondages sont des bots fait pour le serveur de C Quoi Le Jeu      | [Discord](https://discord.gg/Evu8WXm27z)      |
 
 ---
 
