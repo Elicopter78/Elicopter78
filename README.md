@@ -1,4 +1,4 @@
-# 👋 Salut ! Moi c'est Elie ! Retrouve moi sur [elie-dev.fr](https://elie-dev.fr)
+# 👋 Salut, moi c'est Elie ! Retrouvez-moi sur [elie-dev.fr](https://elie-dev.fr) !
 
 💡 **Passionné de tech, apprentissage et création** | 15 ans | France
 
