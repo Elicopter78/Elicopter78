@@ -7,8 +7,8 @@
 ## À propos de moi
 Je m’appelle Elie, j’ai 15 ans et je découvre le monde de la programmation et de la tech avec passion. J’aime apprendre de nouvelles choses, bidouiller des projets et partager mes découvertes.
 
-🔹 **Ce que j’apprends en ce moment** : React Native, Node.js
-🔹 **Mes centres d’intérêt** : programmation, jeux vidéo
+🔹 **Ce que j’apprends en ce moment** : React Native
+🔹 **Mes centres d’intérêt** : programmation, robotique
 
 ---
 
