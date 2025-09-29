@@ -17,7 +17,7 @@ Voici quelques projets sur lesquels j’ai travaillé :
 
 | Nom du Projet         | Description                          | Lien |
 |-----------------------|--------------------------------------|----------------------|
-| Mon Portfolio      | Mon portfolio présente mes compétences ainsi que les projets que j'ai réalisé      | [elie-dev.fr](https://elie-dev.fr)      |
+| Portfolio      | Mon portfolio présente mes compétences ainsi que les projets que j'ai réalisé      | [elie-dev.fr](https://elie-dev.fr)      |
 | C Quoi Le Jeu     | C Quoi Le Jeu est un jeu en ligne gratuit créé par deux adolescents, dont le principe est de deviner le nom d'un jeu vidéo à partir d'une image.      | [cquoilejeu.fr](https://cquoilejeu.fr)      |
 | Bots Caaqlojin      | Les bots Discord Caaqlojin (Caaqlojin, CaaqlojinAI et Caaqlojin - Sondages) sont des bots faits pour le serveur de C Quoi Le Jeu.      | [Discord](https://discord.gg/Evu8WXm27z)      |
 | MoyenneExpress     | MoyenneExpress est l'outil fait pour calculer votre moyenne générale ! Disponible sur Windows et macOS.      | [github.com/Elicopter78/MoyenneExpress](https://github.com/Elicopter78/MoyenneExpress)      |
