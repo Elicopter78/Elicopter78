@@ -36,6 +36,6 @@ Voici quelques projets sur lesquels j’ai travaillé :
 
 ## Comment me contacter ?
 ✉️ Mail : contact@elie-dev.fr
-💬 Discord : https://discordapp.com/users/1215387386700234812
+💬 Discord : [elie_sl](https://discordapp.com/users/1215387386700234812)
 
 ---
