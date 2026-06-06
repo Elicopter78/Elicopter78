@@ -22,7 +22,7 @@ Voici quelques projets sur lesquels j’ai travaillé :
 | Bots Caaqlojin      | Les bots Discord Caaqlojin (Caaqlojin, CaaqlojinAI et Caaqlojin - Sondages) sont des bots faits pour le serveur de C Quoi Le Jeu.      | [Discord](https://discord.gg/Evu8WXm27z)      |
 | MoyenneExpress     | MoyenneExpress est l'outil fait pour calculer votre moyenne générale ! Disponible sur Windows et macOS.      | [github.com/Elicopter78/MoyenneExpress](https://github.com/Elicopter78/MoyenneExpress)      |
 | Décompte 2027     | Un décompte simple et efficace pour 2027.      | [2027.elie-dev.fr](https://2027.elie-dev.fr)      |
-| Pissenlit     | Bot Discord avec des commandes funs pour s'amuser entre amis et animer votre serveur Discord.      | [https://github.com/Elicopter78/Pissenlit](https://github.com/Elicopter78/Pissenlit)      |
+| Pissenlit     | Bot Discord avec des commandes funs pour s'amuser entre amis et animer votre serveur Discord.      | [github.com/Elicopter78/Pissenlit](https://github.com/Elicopter78/Pissenlit)      |
 
 
 ---
