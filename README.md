@@ -1,11 +1,11 @@
 # 👋 Salut, moi c'est Elie ! Retrouvez-moi sur [elie-dev.fr](https://elie-dev.fr) !
 
-💡 **Passionné de tech, apprentissage et création** | 15 ans | France
+💡 **Passionné de tech, apprentissage et création** | 16 ans | France
 
 ---
 
 ## À propos de moi
-Je m’appelle Elie, j’ai 15 ans et je découvre le monde de la programmation et de la tech avec passion. J’aime apprendre de nouvelles choses, bidouiller des projets et partager mes découvertes.
+Je m’appelle Elie, j’ai 16 ans et je découvre le monde de la programmation et de la tech avec passion. J’aime apprendre de nouvelles choses, bidouiller des projets et partager mes découvertes.
 
 🔹 **Ce que j’apprends en ce moment** : React Native
 🔹 **Mes centres d’intérêt** : programmation, robotique
