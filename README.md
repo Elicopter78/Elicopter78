@@ -35,7 +35,7 @@ Voici quelques projets sur lesquels j’ai travaillé :
 ---
 
 ## Comment me contacter ?
-✉️ Mail : crevette@elie-dev.fr
+✉️ Mail : contact@elie-dev.fr
 💬 Discord : [@elie.off](https://discordapp.com/users/1430155559197216839)
 
 ---
